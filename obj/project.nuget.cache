@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5On0T3F6dB0=",
+  "dgSpecHash": "tomV9YHM+hM=",
   "success": true,
   "projectFilePath": "J:\\Programac-2\\GS\\dotnet\\citizentech-dotnet-gs\\CitizenTech.Api\\CitizenTech.Api.csproj",
   "expectedPackageFiles": [
@@ -58,10 +58,10 @@
     "C:\\Users\\Cabrito\\.nuget\\packages\\system.text.encodings.web\\10.0.9\\system.text.encodings.web.10.0.9.nupkg.sha512",
     "C:\\Users\\Cabrito\\.nuget\\packages\\system.text.json\\10.0.9\\system.text.json.10.0.9.nupkg.sha512",
     "C:\\Users\\Cabrito\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
-    "C:\\Users\\Cabrito\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
-    "C:\\Users\\Cabrito\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
-    "C:\\Users\\Cabrito\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
-    "C:\\Users\\Cabrito\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+    "C:\\Users\\Cabrito\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\Cabrito\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\Cabrito\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.31\\microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\Cabrito\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.31\\microsoft.netcore.app.host.win-x64.8.0.31.nupkg.sha512"
   ],
   "logs": []
 }

@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("6d79e30f-e860-4801-8ae4-149d279b06df")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CitizenTech.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfa7d46c201fcb8e9fb39dbbb13b980f73676294")]
 [assembly: System.Reflection.AssemblyProductAttribute("CitizenTech.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CitizenTech.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

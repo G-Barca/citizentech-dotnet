@@ -119,10 +119,10 @@ J:\Programac-2\GS\dotnet\citizentech-dotnet-gs\CitizenTech.Api\obj\Debug\net8.0\
 J:\Programac-2\GS\dotnet\citizentech-dotnet-gs\CitizenTech.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
 J:\Programac-2\GS\dotnet\citizentech-dotnet-gs\CitizenTech.Api\obj\Debug\net8.0\staticwebassets.development.json
 J:\Programac-2\GS\dotnet\citizentech-dotnet-gs\CitizenTech.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-J:\Programac-2\GS\dotnet\citizentech-dotnet-gs\CitizenTech.Api\obj\Debug\net8.0\swae.build.ex.cache
 J:\Programac-2\GS\dotnet\citizentech-dotnet-gs\CitizenTech.Api\obj\Debug\net8.0\CitizenT.BB050D7B.Up2Date
 J:\Programac-2\GS\dotnet\citizentech-dotnet-gs\CitizenTech.Api\obj\Debug\net8.0\CitizenTech.Api.dll
 J:\Programac-2\GS\dotnet\citizentech-dotnet-gs\CitizenTech.Api\obj\Debug\net8.0\refint\CitizenTech.Api.dll
 J:\Programac-2\GS\dotnet\citizentech-dotnet-gs\CitizenTech.Api\obj\Debug\net8.0\CitizenTech.Api.pdb
 J:\Programac-2\GS\dotnet\citizentech-dotnet-gs\CitizenTech.Api\obj\Debug\net8.0\CitizenTech.Api.genruntimeconfig.cache
 J:\Programac-2\GS\dotnet\citizentech-dotnet-gs\CitizenTech.Api\obj\Debug\net8.0\ref\CitizenTech.Api.dll
+J:\Programac-2\GS\dotnet\citizentech-dotnet-gs\CitizenTech.Api\obj\Debug\net8.0\CitizenTech.Api.sourcelink.json
