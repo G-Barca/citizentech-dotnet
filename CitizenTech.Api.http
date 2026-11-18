@@ -1,0 +1,6 @@
+@CitizenTech.Api_HostAddress = http://localhost:5254
+
+GET {{CitizenTech.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
