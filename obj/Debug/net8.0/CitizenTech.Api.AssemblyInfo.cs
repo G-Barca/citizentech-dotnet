@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CitizenTech.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfa7d46c201fcb8e9fb39dbbb13b980f73676294")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+332041d5c664b89c461b95ad33ca2711f3f1c8e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("CitizenTech.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CitizenTech.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
